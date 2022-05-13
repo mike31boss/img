@@ -1,0 +1,153 @@
+h1{ 
+    
+    background-image:url(download\ \(1\).jpg);
+    background-size:auto;
+    background-clip:text;
+    -webkit-background-clip:text;
+    color: transparent;
+    position:relative;
+    font-size:10em;
+    top:-4rem;
+    left:4rem;
+    text-decoration: underline;
+   }
+
+ .pp img{
+    border-radius:50%;
+    width:30em;
+    height:30em;
+    position: relative;
+    top:-7em;
+    left:14em;
+     }
+
+
+body{
+    background-color: #ffffff;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23177f67' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%2399f053' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%2333946c' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%239df360' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%234fa971' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%23a1f66c' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%236abd75' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23a6f979' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%2386d27a' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%23aafc85' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23a2e77f' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%23aeff92' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
+overflow-x: hidden;
+
+      
+}
+.h2{
+    font-size:4em;
+    background-image:url( download\ \(1\).jpg);
+    background-size:auto;
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+    position: relative;
+    top:-9em;
+    left:16em;
+
+
+    }
+.po{
+    position: relative;
+    font-size:3em;
+    left:11em;
+    top:4em;
+    background:rgb(121, 121, 121);
+    background:rgba(196, 190, 190, 0.8);
+    border-radius: 90px;
+    filter:blur(0.1px);
+    width: 15em;
+    height: 18em;
+    text-align: center;
+    
+
+    
+}
+
+
+.picset img{
+        width:60em;
+        height:50em;
+        border-radius:25px;
+        filter: grayscale(100%) brightness(60%);
+	transition: 1s;
+        object-position: center;
+        position: relative;
+        left:29em;
+        top:14em;
+   
+}
+.pic1:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic2:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+
+.pic3:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic4:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+.pic5:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic6:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+.pic7:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic8:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+.pic9:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic10:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+
+.pic11:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic12:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+.pic13:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic14:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+.pic15:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic16:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+.pic17:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic18:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+
+.pic19:hover img{
+    filter: grayscale(0) brightness(100%);
+    object-position:center;
+}
+.pic20:hover img{
+    filter: grayscale(0) brightness(100%);
+}
+.h{color:transparent;
+    position: absolute;
+bottom: 99em;}
+
